@@ -1,0 +1,73 @@
+Supervised Learning 
+helps train models by using labeled data to predict outcomes for new or unseen data.Eg:Netflix
+
+Unsupervised learning 
+is when the machine looks for patterns in data without any labels.
+
+Clustering 
+is when we group things together based on the information we have about them or how they are related.
+
+Find-S algorithm 
+is a simple way for machines to learn patterns. 
+It looks for the most specific pattern that matches all the good examples, focusing only on the positive ones.
+
+PCA 
+is a way to simplify big data into a few key numbers.
+
+Decision Tree
+It's commonly used in machine learning to classify or predict data.
+
+Random forest 
+is a method that uses many decision trees to make predictions.
+
+Confusion matrix 
+evaluates how well a classification model performs. 
+It helps to see if the model is classifying things correctly or not.
+
+Least Squares Regression
+This method is commonly used in predictive modeling when there is a linear relationship between the input and output variables. 
+
+Logistic Regression 
+is a way to predict if something belongs to one of two groups. 
+It is used to make decisions based on data with two options.
+
+k-Nearest Neighbors algorithm 
+is a basic way to make predictions in machine learning for grouping or estimating values.
+
+Euclidean distance is just the straight distance between two points.
+
+K-means clustering 
+is a technique in machine learning that groups similar data points together to form clusters.
+
+Hierarchical clustering 
+is a way to group similar things together without needing someone to tell you how to do it.
+
+Rule-based methods 
+are algorithms that use specific rules to make decisions or predictions in machine learning.
+
+Bayesian network 
+is a way to show and figure out uncertainties in a system.
+
+Locally Weighted Regression 
+is a type of way to draw a line through data points on a graph that focuses more on points that are closer together.
+
+Artificial Neural Network 
+(ANN) is a computer model based on how the brain works.
+
+Backpropagation 
+is a method to help neural networks learn and improve by making small adjustments to get closer to the correct answers.
+
+Naïve Bayesian Classifier 
+is a basic classification algorithm that assumes features are independent based on Bayes' theorem.
+
+Text pre-processing 
+is getting text ready for analysis in NLP.
+
+Text clustering 
+groups similar text together.
+
+Test scores 
+measure how well a model works on new data.
+
+Confusion matrix 
+evaluates how well a classification model performs.
